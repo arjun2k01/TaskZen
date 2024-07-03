@@ -1,2 +1,10 @@
 # TaskZen
-My first todoapp
+My first todo app
+ run this code in codespace for accessing the todo app
+
+ cd todolist
+ npm i
+ npm run dev
+
+ click on the link which is localhost:5173
+ 
